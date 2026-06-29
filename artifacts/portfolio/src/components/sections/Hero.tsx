@@ -153,12 +153,14 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.5, ease: "easeOut" }}
           className="hidden lg:flex flex-1 justify-center relative"
         >
-          {/* Avatar Monogram */}
+          {/* Avatar */}
           <div className="relative w-80 h-80 rounded-full glass border-2 border-primary/20 flex items-center justify-center shadow-2xl z-10 before:absolute before:inset-[-2px] before:rounded-full before:bg-gradient-to-tr before:from-primary before:to-secondary before:-z-10 before:animate-spin-slow p-1">
             <div className="w-full h-full rounded-full bg-card flex items-center justify-center overflow-hidden relative">
-              {/* Subtle grid pattern inside */}
-              <div className="absolute inset-0 opacity-[0.03] dark:opacity-[0.05]" style={{ backgroundImage: 'radial-gradient(circle at center, var(--color-foreground) 1px, transparent 1px)', backgroundSize: '16px 16px' }} />
-              <span className="text-8xl font-black font-heading clip-text-gradient drop-shadow-lg z-10">NK</span>
+              <img
+                src="/attached_assets/WhatsApp_Image_2026-06-01_at_10.49.22_PM_(1)_1782723794978.jpeg"
+                alt="Nidhish Kushwah"
+                className="absolute inset-0 w-full h-full object-cover"
+              />
             </div>
           </div>
 

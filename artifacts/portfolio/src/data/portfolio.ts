@@ -149,7 +149,7 @@ export const PORTFOLIO_DATA = {
     {
       name: "Intel AI Hackathon",
       position: "🥈 2nd Place",
-      role: "Team Leader",
+      role: "Participant",
       project: "PhishGuard AI — AI-powered phishing detection system",
       highlight: true
     },
@@ -163,7 +163,7 @@ export const PORTFOLIO_DATA = {
     {
       name: "Smart India Hackathon (SIH) 2025",
       position: "Selected in Internal Round",
-      role: "Team Member",
+      role: "Team Leader",
       project: "Collaborated on innovative software solution for real-world problem statement",
       highlight: false
     }
