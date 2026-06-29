@@ -1,6 +1,6 @@
-# [Project name]
+# Nidhish Kushwah — Portfolio
 
-_Replace the heading above with the project's name, and this line with one sentence describing what this app does for users._
+A premium, Awwwards-inspired developer portfolio for Nidhish Kushwah. Apple-style aesthetic, dark/light mode, framer-motion animations, AI chatbot assistant, and all portfolio data baked in as static content.
 
 ## Run & Operate
 
