@@ -1,3 +1,5 @@
+hero
+
 import { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { Download, ChevronRight } from 'lucide-react';
