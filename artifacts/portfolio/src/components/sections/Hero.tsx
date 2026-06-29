@@ -157,9 +157,9 @@ export function Hero() {
           <div className="relative w-80 h-80 rounded-full glass border-2 border-primary/20 flex items-center justify-center shadow-2xl z-10 before:absolute before:inset-[-2px] before:rounded-full before:bg-gradient-to-tr before:from-primary before:to-secondary before:-z-10 before:animate-spin-slow p-1">
             <div className="w-full h-full rounded-full bg-card flex items-center justify-center overflow-hidden relative">
               <img
-                src="/attached_assets/WhatsApp_Image_2026-06-01_at_10.49.22_PM_(1)_1782723794978.jpeg"
+                src={`${import.meta.env.BASE_URL}profile.jpg`}
                 alt="Nidhish Kushwah"
-                className="absolute inset-0 w-full h-full object-cover"
+                className="absolute inset-0 w-full h-full object-cover object-top"
               />
             </div>
           </div>
